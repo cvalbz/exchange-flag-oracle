@@ -1,0 +1,8 @@
+{
+  "ports": [
+    8080
+  ],
+  "program_sha256": "37d682617dc271c58571da4b79a938f1b81bf8d50fe276fe21ab39ec0ed25635",
+  "protocol": "exchange-flag-v1",
+  "target": "linux-lpe"
+}
