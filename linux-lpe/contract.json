@@ -1,9 +1,0 @@
-{
-  "protocol": "exchange-linux-lpe-marker-v1",
-  "target": "linux-lpe",
-  "program_sha256": "739e7e849e86bc20ac1feb09bbe2b3cd30c0122721234478cecc415687e7ec43",
-  "ports": [
-    8080
-  ],
-  "marker_path": "/root/lpe_achieved"
-}
